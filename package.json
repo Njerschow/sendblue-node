@@ -11,5 +11,8 @@
   "dependencies": {
     "axios": "^0.19.2"
   },
-  "keywords": ["sendblue", "iMessage API", "Blue Message API", "sendblue node"]
+  "keywords": ["sendblue", "iMessage API", "Blue Message API", "sendblue node"],
+  "repository": {
+    "url": "https://github.com/Njerschow/sendblue-node.git"
+  }
 }
