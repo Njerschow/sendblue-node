@@ -1,6 +1,6 @@
 {
   "name": "sendblue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js wrapper for the Sendblue API",
   "main": "index.js",
   "scripts": {
